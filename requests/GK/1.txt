@@ -1,0 +1,16 @@
+{
+ "id": "16",
+ "jsonrpc": "2.0",
+ "method": "identity.check",
+ "params": {},
+ "auth": {
+  "fingerPrint": null,
+  "password": "XXXX",
+  "session": {
+   "id": null,
+   "imei": "XXXX",
+   "language": "en"
+  },
+  "username": "XXXX"
+}
+}
